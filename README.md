@@ -15,7 +15,5 @@
 
  
 
-  ![Snake animation](https://github.com/Morpheus472-cpu/Morpheus472-cpu/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
